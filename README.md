@@ -1,8 +1,8 @@
 # Introduction to GitHub
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="rigHt" height="200px" />
 
-Hey isuka08!
+Hey isuka Karasnagoda
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
